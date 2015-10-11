@@ -1,7 +1,6 @@
-# Scala で実装する機械学習入門
-================================
->Introduction to major machine learning algorithms in Scala
+# Scalaで実装する機械学習入門
 
+>Introduction to major machine learning algorithms in Scala
 >http://pafelog.net/mining.pdf
 
 ## Scala demos of major machine-learning algorithms
