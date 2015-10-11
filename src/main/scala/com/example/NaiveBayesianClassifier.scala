@@ -1,6 +1,6 @@
 package com.example
 
-object MaximumLikelihood {
+object NaiveBayesianClassifier {
 
 
 

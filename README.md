@@ -3,7 +3,7 @@
 
 http://pafelog.net/mining.pdf
 
-1. Nearest Neighborhood
+1. [Nearest Neighborhood](/mmizutani/machine-learning-in-scala)
 2. Neural Network
 3. Support Vector Machine
 4. Kernel Trick
